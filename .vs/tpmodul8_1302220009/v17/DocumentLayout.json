@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul8_1302220009\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF2C4386-2577-4BD3-842A-B68FF6AC5235}|tpmodul8_1302220009\\tpmodul8_1302220009.csproj|c:\\users\\marjauza\\documents\\kuliah\\tugas\\semester 4\\praktikum kpl\\tpmodul8_1302220009\\tpmodul8_1302220009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF2C4386-2577-4BD3-842A-B68FF6AC5235}|tpmodul8_1302220009\\tpmodul8_1302220009.csproj|solutionrelative:tpmodul8_1302220009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF2C4386-2577-4BD3-842A-B68FF6AC5235}|tpmodul8_1302220009\\tpmodul8_1302220009.csproj|c:\\users\\marjauza\\documents\\kuliah\\tugas\\semester 4\\praktikum kpl\\tpmodul8_1302220009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2C4386-2577-4BD3-842A-B68FF6AC5235}|tpmodul8_1302220009\\tpmodul8_1302220009.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul8_1302220009\\tpmodul8_1302220009\\Program.cs",
-              "RelativeDocumentMoniker": "tpmodul8_1302220009\\Program.cs",
-              "ToolTip": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul8_1302220009\\tpmodul8_1302220009\\Program.cs",
-              "RelativeToolTip": "tpmodul8_1302220009\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul8_1302220009\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul8_1302220009\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T17:01:25.922Z",
               "EditorCaption": ""

@@ -1,0 +1,2 @@
+C:\Users\MARJAUZA\Documents\KULIAH\TUGAS\Semester 4\Praktikum KPL\tpmodul8_1302220009\tpmodul8_1302220009\obj\Debug\tpmodul8_1302220009.csproj.AssemblyReference.cache
+C:\Users\MARJAUZA\Documents\KULIAH\TUGAS\Semester 4\Praktikum KPL\tpmodul8_1302220009\tpmodul8_1302220009\obj\Debug\tpmodul8_1302220009.csproj.CoreCompileInputs.cache
